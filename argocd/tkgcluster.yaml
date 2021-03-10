@@ -1,39 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@AkhilCh308
-Learn Git and GitHub without any code!
-
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-AkhilCh308 /
-ArgoCd
-
-1
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-ArgoCd/tkgcluster.yaml
-@AkhilCh308
-AkhilCh308 first commit
-Latest commit 23a78ed 23 minutes ago
-History
-1 contributor
-2485 lines (2479 sloc) 73.1 KB
 apiVersion: addons.cluster.x-k8s.io/v1alpha3
 kind: ClusterResourceSet
 metadata:
